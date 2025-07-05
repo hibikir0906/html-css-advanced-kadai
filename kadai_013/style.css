@@ -95,11 +95,11 @@ PC用のスタイル
     z-index: 100;
   }
 
-   #nav-sp nav ul {
+   #nav-sp ul {
      padding-left: 0;
    }
  
-   #nav-sp nav li {
+   #nav-sp li {
      list-style: none;
    }
 
@@ -118,20 +118,20 @@ PC用のスタイル
    }
 
    /* ナビゲーションのリンクの装飾設定 */
-   #nav-sp nav a {
+   #nav-sp a {
      display: block;
    }
-   #nav-sp nav a:link {
+   #nav-sp a:link {
      color: #ffffff;
    }
-   #nav-sp nav a:visited {
+   #nav-sp a:visited {
      color: #ffffff;
    }
-   #nav-sp nav a:hover {
+   #nav-sp a:hover {
      color: #ffffff;
      text-decoration: underline;
    }
-   #nav-sp nav a:active {
+   #nav-sp a:active {
      color: #ffffff;
    }
 
